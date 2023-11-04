@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding-left: 20px;
+    display: flex;
+   height: auto;
+   width: auto;
+   padding-right: 90px;
+    background-color: whitesmoke;
+    justify-content: space-between;
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+.icons{
+    padding-left: 10px;
+    margin-top: 5px;
+    display: inline-block;
+    margin-right: 100px;
+    float: right;
+}
+nav a{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 60px;
+
+}
+.list{
+    display: flex;
+    gap: 30px;
+    padding-right: 50px;
+    list-style: none;
+}
+
+
+.list1{
+list-style: none;
+display: flex;
+padding-left: 50px;
+margin-bottom: 20px;
+}
+.button {
+    position: absolute;
+    left: 190px;
+    bottom: 210px;
+
+}
+.list2{
+    display: flex;
+    gap: 0px;
+    padding-left: 50px;
+    list-style: none;
+}
+
+
+footer {
+    background-color: #E1C78F;
+    padding-top: 10px;
+    padding-left: 200px;
+    color: black;
+    height: 550px;
+}
+footer a {
+    color: blue;
+    
+}
+.links {
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.policies {
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.images {
+    margin-left: 1000px;
+    margin-top: 30px;
+}
